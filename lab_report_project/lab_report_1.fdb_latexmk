@@ -1,0 +1,22 @@
+# Fdb version 3
+["pdflatex"] 1603778779 "lab_report_1.tex" "lab_report_1.pdf" "lab_report_1" 1603778779
+  "/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty" 1591545468 2211 ca7ce284ab93c8eecdc6029dc5ccbd73 ""
+  "/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty" 1591545468 4161 7f6eb9092061a11f87d08ed13515b48d ""
+  "/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty" 1591545468 85660 baee036978c7a91f4e2bba43f05e5945 ""
+  "/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty" 1591545468 4116 32e6abd27229755a83a8b7f18e583890 ""
+  "/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty" 1591545468 2432 8ff93b1137020e8f21930562a874ae66 ""
+  "/usr/share/texmf-dist/tex/latex/base/article.cls" 1591545468 20023 e427dd9e17e239bf926ef3aab67fe35e ""
+  "/usr/share/texmf-dist/tex/latex/base/size10.clo" 1591545468 8446 9874cccac5fee462272c582807dbbf56 ""
+  "/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def" 1591545468 25742 5de23a2d2bc67a3139433e702e64a437 ""
+  "/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty" 1591545468 4713 eb01a5180e90c7ac1715bb64e2c31227 ""
+  "/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1591545468 4615 4ac5fc0da0d4c20aef3a345b8be411eb ""
+  "/usr/share/texmf-dist/tex/latex/tools/calc.sty" 1591545468 10216 5efd55f2010055e7b7875afd6a75be82 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1591545468 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/usr/share/texmf/tex/latex/mhchem/mhchem.sty" 1603777601 133481 dc82a4183457b704dd7d0522a9b06baf ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1599575244 2514042 cfb6594d7748dc45374e86df02183e00 ""
+  "chemgreek.sty" 0 -1 0 ""
+  "lab_report_1.aux" 1603778779 8 a94a2480d3289e625eea47cd1b285758 ""
+  "lab_report_1.tex" 1603778779 7708 4bf87fdb438df193fa7e39546776ce96 ""
+  (generated)
+  "lab_report_1.log"
+  "lab_report_1.pdf"
